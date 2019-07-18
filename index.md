@@ -8,12 +8,12 @@ language: "en"
 latlng: "22.307807, 39.105358"
 humandate: "1 September 2019"
 humantime: "8:30 am  - 5:00 pm"
-startdate: 2019-01-01      
-enddate: 2019-01-01        
+startdate: 2019-09-01      
+enddate: 2019-09-01        
 instructor: ["David R. Pugh"]
 helper: ["TBD"]
 email: ["help@vis.kaust.edu.sa"]
-collaborative_notes: https://pad.carpentries.org/2019-09-01-introduction-to-python-for-data-science
+collaborative_notes: https://pad.carpentries.org/2019-09-01-kaust-vislab
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
