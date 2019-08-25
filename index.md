@@ -276,7 +276,7 @@ please preview your site before committing, and make sure to run
         <ol>
           <li>Open <a href="https://docs.conda.io/en/latest/miniconda.html">https://docs.conda.io/en/latest/miniconda.html</a> with your web browser.</li>
           <li>Download the 64-bit Python 3 installer for Windows.</li>
-          <li>Install Python 3 using all of the defaults for installation <em>except</em> make sure to check <strong>Add Anaconda to my PATH environment variable</strong>.</li>
+          <li>Install Python 3 using all of the defaults for installation <em>except</em> make sure to check <strong>Add Miniconda to my PATH environment variable</strong>.</li>
         </ol>
       </article>
       <article role="tabpanel" class="tab-pane active" id="python-macos">
