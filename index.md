@@ -11,7 +11,7 @@ humantime: "8:30 am  - 5:00 pm"
 startdate: 2019-09-01      
 enddate: 2019-09-01        
 instructor: ["David R. Pugh"]
-helper: ["TBD"]
+helper: ["Glendon Holst", "Mohammad Shaaban", "Sohaib Ghani", "Saber Feki", "Naga Kathiresan"]
 email: ["help@vis.kaust.edu.sa"]
 collaborative_notes: https://pad.carpentries.org/2019-09-01-kaust-vislab
 ---
